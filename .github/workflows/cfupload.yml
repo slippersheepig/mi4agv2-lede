@@ -1,4 +1,4 @@
-name: amd64-config
+name: mt7621-config
 
 on:
   workflow_dispatch:
